@@ -27,7 +27,7 @@ class Navigation extends Component {
             className="me-auto"
             href="/"
           >
-            Hungry Khub.Com
+            Hungry Khub.com
           </NavbarBrand>
           <NavbarToggler
             onClick={this.openNavLink}
